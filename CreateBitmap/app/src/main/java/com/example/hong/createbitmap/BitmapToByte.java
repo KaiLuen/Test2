@@ -17,6 +17,9 @@ public class BitmapToByte {
     private Context context;
     private Bitmap redCannons;
 
+    //Hello
+    //Change
+
     public BitmapToByte(Context context) {
         this.context = context;
         this.res = context.getResources();
